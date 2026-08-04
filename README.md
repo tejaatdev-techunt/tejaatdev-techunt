@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tejaswi Thokala</h1>
+<h1 align="center">Hi 👋, I'm Teja</h1>
 <h3 align="center">Full Stack Software Engineer | Event-Driven Microservices | AWS | React & Java</h3>
 
 <p align="center">
@@ -95,20 +95,7 @@ Multi-store retail inventory service that computes weeks-of-supply per SKU, clas
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" />
-</p>
-
----
-
 ### 📫 Reach Me
 
 - 📧 tejaatdev@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/teja7667)
+
