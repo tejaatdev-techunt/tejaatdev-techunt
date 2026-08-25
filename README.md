@@ -17,7 +17,6 @@
 - 🔁 Ship full-stack features end-to-end — schema design, GraphQL/REST API contracts, React UI, CI/CD, and post-release monitoring
 - 🤖 Apply AI tooling (GitHub Copilot, Claude AI) to accelerate delivery without trading off test coverage or code quality
 - 🎓 M.S. in Computer Science, University of Central Oklahoma (GPA 3.54/4.0)
-- 💼 Currently a Full Stack Software Engineer at **MedImpact Healthcare Systems**
 
 ---
 
@@ -85,8 +84,7 @@ Multi-store retail inventory service that computes weeks-of-supply per SKU, clas
 
 | Company | Role | Duration |
 |---|---|---|
-| MedImpact Healthcare Systems | Full Stack Software Engineer | Dec 2025 – Present |
-| Walmart Global Tech | Software Developer | Jun 2025 – Nov 2025 |
+| Walmart Global Tech | Software Developer | Jun 2025 – Present|
 | Reliance Industries | Software Developer | Apr 2021 – May 2023 |
 | Morgan Stanley | Software Engineer | Jan 2020 – Mar 2021 |
 
