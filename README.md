@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 4+ years building and owning **distributed systems** across financial services, large-scale retail, and enterprise healthcare
+- 🔭 4+ years building and owning **distributed systems** across financial services and large-scale retail
 - 🛠️ Specialize in **event-driven microservices** (Java, Spring Boot, Kafka) paired with **React/TypeScript** frontends, deployed on **AWS**
 - 📈 Delivered measurable production impact: cut query latency **35%**, improved API response times **25%**, and maintained **98.5%** service availability on systems processing **2M+ daily transactions**
 - 🔁 Ship full-stack features end-to-end — schema design, GraphQL/REST API contracts, React UI, CI/CD, and post-release monitoring
