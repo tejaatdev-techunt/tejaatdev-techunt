@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Teja</h1>
 <h3 align="center">Full Stack Software Engineer | Event-Driven Microservices | AWS | React & Java</h3>
 
-<p align="center">
-  <a href="mailto:tejaatdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -84,13 +79,11 @@ Multi-store retail inventory service that computes weeks-of-supply per SKU, clas
 
 | Company | Role | Duration |
 |---|---|---|
-| Walmart Global Tech | Software Developer | Jun 2025 – Present|
-| Reliance Industries | Software Developer | Apr 2021 – May 2023 |
-| Morgan Stanley | Software Engineer | Jan 2020 – Mar 2021 |
+| Walmart Global Tech | Software Engineer | Jun 2025 – Present|
+| Reliance Industries | Software Engineer | Apr 2021 – May 2023 |
+| Morgan Stanley | Software Developer | Jan 2020 – Mar 2021 |
 
 ---
 
-### 📫 Reach Me
 
-- 📧 tejaatdev@gmail.com
 
