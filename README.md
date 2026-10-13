@@ -8,7 +8,6 @@
 
 - 🔭 4+ years building and owning **distributed systems** across financial services and large-scale retail
 - 🛠️ Specialize in **event-driven microservices** (Java, Spring Boot, Kafka) paired with **React/TypeScript** frontends, deployed on **AWS**
-- 📈 Delivered measurable production impact: cut query latency **35%**, improved API response times **25%**, and maintained **98.5%** service availability on systems processing **2M+ daily transactions**
 - 🔁 Ship full-stack features end-to-end — schema design, GraphQL/REST API contracts, React UI, CI/CD, and post-release monitoring
 - 🤖 Apply AI tooling (GitHub Copilot, Claude AI) to accelerate delivery without trading off test coverage or code quality
 - 🎓 M.S. in Computer Science, University of Central Oklahoma (GPA 3.54/4.0)
